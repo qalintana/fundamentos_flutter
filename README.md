@@ -1,2 +1,8 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Aprenda flutter comigo
+--
+## Fundamentos
+
+
+O presente repositório, serve de aprendizagem do flutter, decido embarcar nessa aventura... Tendo até 6 meses para me tornar dev sénior
+
+
