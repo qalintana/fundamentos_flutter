@@ -1,7 +1,18 @@
 void main() {
-  (int a) {
-    print('funcao anonima $a');
-  }(10);
+  var nome = '';
+  var idade = 1;
+
+  // ignore: prefer_function_declarations_over_variables
+  var funcaoQualquer = () {
+    print('minha funcao');
+    return '100';
+  };
+
+  print(nome.runtimeType);
+  print(idade.runtimeType);
+  print(funcaoQualquer.runtimeType);
+
+  print(funcaoQualquer());
 }
 
 // funcao arrow
